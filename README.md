@@ -112,6 +112,8 @@ Get detailed information about a specific news article.
 }
 ```
 
+**⚠️ Optional note:** If you want to get the content in markdown format, you can use the `markdown.js` file as a main in `package.json` or use `npm run markdown`.
+
 ## 🛠️ Built With
 
 - [Node.js](https://nodejs.org/) - JavaScript runtime
