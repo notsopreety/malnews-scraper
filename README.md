@@ -1,6 +1,6 @@
 # MAL News Scraper API
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A Node.js API that scrapes and serves the latest anime news from MyAnimeList (MAL) in a clean JSON format. This API provides easy access to MAL's news feed without the need for authentication or API keys.
 
